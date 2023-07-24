@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456818678056",
+    "project_id": "buzzhub-de163",
+    "storage_bucket": "buzzhub-de163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456818678056:android:224bd514fface73a14581d",
+        "android_client_info": {
+          "package_name": "com.example.buzzhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456818678056-f0eq94c39496qdjmv8fissj4qpmde710.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC0GNsGBq7owQxsPw4egM1c1elN3m0Y2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456818678056-f0eq94c39496qdjmv8fissj4qpmde710.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

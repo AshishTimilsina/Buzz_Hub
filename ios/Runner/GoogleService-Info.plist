@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>456818678056-jb8qdja9q7n21bb9gckqr5k65730bm71.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.456818678056-jb8qdja9q7n21bb9gckqr5k65730bm71</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxq1yqayXTfKskKoJ_Q3AekpUJhbEAC3g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>456818678056</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.buzzhub</string>
+	<key>PROJECT_ID</key>
+	<string>buzzhub-de163</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buzzhub-de163.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:456818678056:ios:a2eea2309d0df0b414581d</string>
+</dict>
+</plist>
